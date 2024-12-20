@@ -1,3 +1,3 @@
 # TP
 A collection of some C++ assignments.<br>
-Subject professors: **Doc. dr Senka Krivić dipl.ing.el.** && **Doc. dr Amra Delić Halilović BA ing.**
+Subject professor: **R. prof. dr Željko Jurić dipl.ing.el.**
